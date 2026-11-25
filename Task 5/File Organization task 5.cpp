@@ -14,7 +14,7 @@ struct students
     int id;
     float grade;
    
-};
+}
 int main()
 {
     ofstream myfile("students.txt", ios::app);
